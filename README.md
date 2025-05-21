@@ -63,7 +63,7 @@ Option 1: Git (recommended)
 
 ```bash
 sudo apt install git
-git clone [https://github.com/your-username/brute-force-demo.git](https://github.com/r7avi/Hacking-Simple-Brute-Force)
+git clone https://github.com/r7avi/Hacking-Simple-Brute-Force.git
 cd Hacking-Simple-Brute-Force
 ```
 
