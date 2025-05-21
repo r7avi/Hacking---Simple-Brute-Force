@@ -42,9 +42,9 @@ node server.js
 # ☁️ AWS EC2 Deployment (Ubuntu/Debian)
 
 ## 1. Launch EC2 Instance
-Choose Ubuntu/Debian
+Choose Ubuntu/Debian or Replace apt with yum for Amazon Linux, CentOS
 
-Open port 3000 in the Security Group
+Open port HTTP in the Security Group
 
 ## 2. Connect via SSH
 ```bash
@@ -67,7 +67,7 @@ git clone https://github.com/r7avi/Hacking-Simple-Brute-Force.git
 cd Hacking-Simple-Brute-Force
 ```
 
-Option 2: Use scp from your local machine:
+Option 2: Use scp from your local machine: (transfer git files from ur pc to linux)
 
 ```bash
 scp -i your-key.pem -r ./brute-force-demo ubuntu@your-ec2-public-ip:/home/ubuntu/
