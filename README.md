@@ -82,7 +82,7 @@ node server.js
 
 ## 6. Access the Demo
 Open in browser:
-🌐 http://<your-ec2-ip>:3000/ & http://<your-ec2-ip>:3000/hack.html
+🌐 http://your-ec2-public-ip:3000/ & http://your-ec2-ip:3000/hack.html
 
 
 ## 🔄 How It Works
