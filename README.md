@@ -42,9 +42,9 @@ node server.js
 # ☁️ AWS EC2 Deployment (Ubuntu/Debian)
 
 ## 1. Launch EC2 Instance
-Choose Ubuntu/Debian
+Choose Ubuntu/Debian or Replace apt with yum for Amazon Linux , Alma , CentOS etc
 
-Open port 3000 in the Security Group
+Open port HTTP in the Security Group
 
 ## 2. Connect via SSH
 ```bash
