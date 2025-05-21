@@ -4,7 +4,7 @@ const bodyParser = require("body-parser");
 const { MongoClient } = require("mongodb");
 const path = require("path");
 
-const PORT = 3000;
+const PORT = 80;
 const MONGO_URL = "mongodb+srv://ir7avi:QrDNheBivvUmZNBp@cluster0.cfyi8.mongodb.net";
 const DB_NAME = "authDemo";
 
