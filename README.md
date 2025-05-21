@@ -67,7 +67,7 @@ git clone https://github.com/r7avi/Hacking-Simple-Brute-Force.git
 cd Hacking-Simple-Brute-Force
 ```
 
-Option 2: Use scp from your local machine:
+Option 2: Use scp from your local machine: (transfer git files from ur pc to linux)
 
 ```bash
 scp -i your-key.pem -r ./brute-force-demo ubuntu@your-ec2-public-ip:/home/ubuntu/
