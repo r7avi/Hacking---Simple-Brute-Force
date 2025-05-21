@@ -3,7 +3,7 @@ const { MongoClient } = require("mongodb");
 const MONGO_URL = "mongodb+srv://ir7avi:QrDNheBivvUmZNBp@cluster0.cfyi8.mongodb.net";
 const DB_NAME = "authDemo";
 
-const N = 950; // number of users to insert
+const N = 250; // number of users to insert
 
 // Helper to generate random string for password and name
 function randomString(length) {
