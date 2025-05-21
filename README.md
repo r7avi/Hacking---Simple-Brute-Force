@@ -37,7 +37,9 @@ node server.js
 🌐 http://localhost:3000/hack.html
 
 
-## ☁️ AWS EC2 Deployment (Ubuntu/Debian)
+
+
+# ☁️ AWS EC2 Deployment (Ubuntu/Debian)
 
 ## 1. Launch EC2 Instance
 Choose Ubuntu/Debian
@@ -61,8 +63,8 @@ Option 1: Git (recommended)
 
 ```bash
 sudo apt install git
-git clone https://github.com/your-username/brute-force-demo.git
-cd brute-force-demo
+git clone [https://github.com/your-username/brute-force-demo.git](https://github.com/r7avi/Hacking-Simple-Brute-Force)
+cd Hacking-Simple-Brute-Force
 ```
 
 Option 2: Use scp from your local machine:
